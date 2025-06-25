@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://raw.githubusercontent.com/c-yara/c-yara/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/c-yara/c-yara/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--
