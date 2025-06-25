@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![](https://raw.githubusercontent.com/c-yara/c-yara/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **c-yara/c-yara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
