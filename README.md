@@ -1,6 +1,3 @@
-## Hi there 👋
-- I love Kawhi Leonard.🏀
-
 ![](https://raw.githubusercontent.com/c-yara/c-yara/output/github-contribution-grid-snake-dark.svg)
 
 
